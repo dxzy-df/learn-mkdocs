@@ -1,0 +1,10 @@
+site_name: 我的第一个博客
+nav:
+  - 首页: index.md  
+  - 磁学仿真: test.md
+  - FPGA练习: FPGA.md
+  - UVM训练:  UVM.md
+theme: readthedocs
+
+site_name: 我的第一个站点
+
